@@ -7,3 +7,9 @@ Before loading the data, certain transformations took place. Firstly, some empty
 
 PART 2: Creating the Visualisation
 
+To begin with, a text box was used to add a title at the top of the grid. In addition, the average age and the total number of participants were included at the top. The first graph was about demonstrating with a stacked bar chart the Average Salary per Job Title  Furthermore, a stacked column chart of the Favourite Programming Language per Job Title was added as well as a tree map to have a general view of the participants' countries. To conlcude, two gauge charts were used to show how happy the participants are regarding their salary and the Work-Life Balance and a donut chart to indicate the salary gender gap.
+
+
+
+Dataset was provided by: 
+https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
